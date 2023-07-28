@@ -1,0 +1,5 @@
+langchain
+openai
+chromdb
+pypdf2
+gradio
